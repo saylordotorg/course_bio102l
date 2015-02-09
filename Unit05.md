@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102L: Introduction to Evolutionary Biology and Ecology Lab"
+course_description: "Introductory course that uses various activities and exercises to provide the basic principles and methods of biology. Lab topics include: the scientific method, DNA structure, transcription and translation, PCR and microarrays, prokaryotic and eukaryotic cells, photosynthesis, glycolysis and cellular respiration, genetics, and cell division."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Speciation** <span id="5"></span> 
 *This unit will cover the topic of speciation in more depth than the
 lecture portion of your course, detailing specific examples of

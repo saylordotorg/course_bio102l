@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102L: Introduction to Evolutionary Biology and Ecology Lab"
+course_description: "Introductory course that uses various activities and exercises to provide the basic principles and methods of biology. Lab topics include: the scientific method, DNA structure, transcription and translation, PCR and microarrays, prokaryotic and eukaryotic cells, photosynthesis, glycolysis and cellular respiration, genetics, and cell division."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Natural Selection** <span id="3"></span> 
 *The lecture portion of this course will have taught you a great deal
 about Darwin’s theory, the support it has garnered over time, and the
