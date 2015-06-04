@@ -20,3 +20,13 @@ on visual understanding, application, and practical use of your
 knowledge.  In each unit, you will work through tutorials related to
 important scientific concepts and then will be asked to think creatively
 about how your knowledge can be put to practical or experimental use.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio102l/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio102l/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio102l/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio102l/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio102l/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio102l/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio102l/Unit07/)
