@@ -78,7 +78,7 @@ id="2.1"></span> 
     these exercises, please go to “Fruit Fly Exercise 2, Level One” on
     the “Sample Exercises” page linked above, and check your work
     against The Saylor Foundation’s “[BIO102 Lab Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/05/BIO102LAB-AnswerKey-FINAL.pdf).”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO102LAB-AnswerKey-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use
